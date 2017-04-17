@@ -7,3 +7,7 @@
 .u {
   text-decoration: underline;
 }
+.bi {
+  font-style: bold;
+  font-style: italic;
+}
